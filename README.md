@@ -21,8 +21,8 @@ This project demonstrates the typical workflow used by structural engineers to a
 * Number of Floors: Ground + 4 Floors (G+4)
 * Structural System: Beam–Column Frame
 * Foundation Type: Isolated Footings
-* Concrete Grade: **M20**
-* Reinforcement: **HYSD 500 Rebars**
+* Concrete Grade: M20
+* Reinforcement: HYSD 500 Rebars
 
 ---
 
